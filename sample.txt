@@ -1,5 +1,6 @@
 Hello World!
 Hello Masaki!
 Goodbye World!
-Goodbye Masaki!
 I don't want to say goodbye!
+Goodbye Masaki!
+Bye!
