@@ -1,1 +1,2 @@
-Hello Masaki!
+Hello World!
+Goodbye World!
